@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Opa, sou o Lucas Furco!</h1>
-  <p>Estudante de Ciência da Computação @Uni-FACEF | Buscando aprimorar e evoluir cada código!</p>
+  <p>Estudante de Ciência da Computação @unifacef | Buscando aprimorar e evoluir cada código!</p>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/lucas-righetto-637a3a336/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
