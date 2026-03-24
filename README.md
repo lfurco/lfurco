@@ -31,8 +31,8 @@ Estudante de Ciências da Computação pela Uni-FACEF
 
 
 <div align="center">
-  <h1>Hey, sou o Lucas Furco! 🚀</h1>
-  <p>Estudante de Ciência da Computação @ Uni-FACEF | Apaixonado por transformar café em código.</p>
+  <h1>Opa, sou o Lucas Furco!</h1>
+  <p>Estudante de Ciência da Computação @Uni-FACEF | Buscando aprimorar e evoluir cada código!</p>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/lucas-righetto-637a3a336/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -42,7 +42,7 @@ Estudante de Ciências da Computação pela Uni-FACEF
 
 ---
 
-### ⚡ Tech Stack
+### ⚡ Abilities
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,java,js,nodejs,html,css&theme=dark" />
