@@ -4,7 +4,7 @@
   <p><i>"Construindo o futuro, um <b>commit</b> por vez."</i></p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/lucas-righetto-637a3a336/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/lucas-furco-637a3a336/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:lucasrighettof@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
