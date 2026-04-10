@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&size=30&pause=1000&width=435&color=524540&center=true&vCenter=true&bold=true&lines=Lucas+Furco)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&size=30&pause=1000&width=435&color=FF&center=true&vCenter=true&bold=true&lines=Lucas+Furco)](https://git.io/typing-svg)
 
 </div>
 
