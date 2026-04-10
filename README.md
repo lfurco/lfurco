@@ -1,5 +1,12 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=524540&height=70&section=header"/>
+
 <div align="center">
-  <h1>Opa, sou o Lucas Furco!</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&size=30&pause=1000&width=435&color=524540&center=true&vCenter=true&bold=true&lines=Lucas+Furco)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
   <p>Estudante de Ciência da Computação @UniFACEF</p>
   <p><i>"Construindo o futuro, um <b>commit</b> por vez."</i></p>
 
